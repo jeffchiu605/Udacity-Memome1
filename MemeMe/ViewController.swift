@@ -14,7 +14,8 @@ import UIKit
  * 1) Photo Album
  * 2) Templates
  * 3) From Camera
- *
+ * In addition with those features. I would recommend you check out this video. 
+ * https://www.youtube.com/watch?v=5hIyn_UdFIc
  * Once the image is picked, the user can enlarge (zoom) and pan the image so that it fits the screen
  * A scroll view is used for this. This way, the image is cropped to the user's liking.
  * This was created following video at: https://www.youtube.com/watch?v=hz9pMw4Y2Lk
